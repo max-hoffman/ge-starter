@@ -33,3 +33,4 @@ docker run -p 8080:8080 myapp
 docker tag myapp maxhoffman/myapp:latest
 docker push maxhoffman/myapp:latest
 ```
+** this is probably unnecessary, also you would have to push to your personal registry (not mine)
